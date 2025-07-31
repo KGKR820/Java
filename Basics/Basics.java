@@ -31,5 +31,10 @@ public class Basics {
         for(int i=arr.length-1;i>=0;i--){
             System.out.println(arr[i]);
         }
+        int a=2;
+        int b =5;
+        //double == float(It has something that pw does't like)
+        double n = (double)a/b;
+        System.out.println(n);
     }
 }
