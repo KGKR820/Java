@@ -1,4 +1,6 @@
-class Bicycle {
+package Assign_3;
+
+public class Bicycle {
     private int gear;
     private int speed;
     public Bicycle(int gear, int speed) {
@@ -55,4 +57,5 @@ class MountainBike extends Bicycle {
         System.out.println("Seat height: " + seatHeight);
     }
 }
+
 

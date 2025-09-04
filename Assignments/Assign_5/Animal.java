@@ -1,3 +1,4 @@
+package Assign_5;
 
 public  class Animal {
   void eat(){

@@ -1,3 +1,6 @@
+package Assign_3;
+
+
 public class Spacecraft {
     String name;
     double fuelCapacity;

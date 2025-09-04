@@ -1,3 +1,4 @@
+package Assign_2;
 public class Vehicle {
     String fuelType;
     void printFuelType(){

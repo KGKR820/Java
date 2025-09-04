@@ -1,4 +1,6 @@
-abstract class Animal {
+package Assign_4;
+
+    abstract class Animal {
 
     private String name;
     private int age;
@@ -70,3 +72,4 @@ public class Zoo {
         dolphin.eat();
     }
 }
+
