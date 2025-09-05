@@ -1,5 +1,4 @@
 package Kunal_Classes.Comparables;
-
 public class compare {
     public class Student implements Comparable<Student>{
         int roll;
@@ -14,7 +13,6 @@ public class compare {
             int diff = (int)(this.marks-o.marks);
             return diff;
         }
-        
     }
     public static void main(String[] args) {
             compare comp = new compare();
